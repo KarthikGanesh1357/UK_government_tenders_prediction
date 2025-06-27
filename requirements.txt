@@ -83,7 +83,7 @@ mlflow==3.1.1
 mlflow-skinny==3.1.1
 multidict==6.5.1
 narwhals==1.44.0
-networkx==3.5
+networkx==3.2.1
 numpy==2.3.1
 omegaconf==2.3.0
 opentelemetry-api==1.34.1
