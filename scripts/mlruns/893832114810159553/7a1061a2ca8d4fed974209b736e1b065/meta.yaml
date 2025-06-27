@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/nmlops/tender-overshoot-mlops/scripts/mlruns/893832114810159553/7a1061a2ca8d4fed974209b736e1b065/artifacts
+end_time: 1750999171477
+entry_point_name: ''
+experiment_id: '893832114810159553'
+lifecycle_stage: active
+run_id: 7a1061a2ca8d4fed974209b736e1b065
+run_name: youthful-koi-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750999163703
+status: 3
+tags: []
+user_id: viswa

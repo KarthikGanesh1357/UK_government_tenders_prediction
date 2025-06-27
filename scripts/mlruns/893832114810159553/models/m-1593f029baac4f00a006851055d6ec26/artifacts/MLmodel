@@ -1,0 +1,22 @@
+artifact_path: file:///C:/nmlops/tender-overshoot-mlops/scripts/mlruns/893832114810159553/models/m-1593f029baac4f00a006851055d6ec26/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-1593f029baac4f00a006851055d6ec26
+model_size_bytes: 892040
+model_uuid: m-1593f029baac4f00a006851055d6ec26
+prompts: null
+run_id: 7a1061a2ca8d4fed974209b736e1b065
+utc_time_created: '2025-06-27 04:39:24.325409'

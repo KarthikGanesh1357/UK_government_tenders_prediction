@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/nmlops/tender-overshoot-mlops/scripts/mlruns/893832114810159553/c4a7e59e34694c08ae65889d3beba655/artifacts
+end_time: 1750998734767
+entry_point_name: ''
+experiment_id: '893832114810159553'
+lifecycle_stage: active
+run_id: c4a7e59e34694c08ae65889d3beba655
+run_name: upbeat-cub-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750998727583
+status: 3
+tags: []
+user_id: viswa

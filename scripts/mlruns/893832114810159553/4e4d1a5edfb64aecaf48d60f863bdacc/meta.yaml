@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/nmlops/tender-overshoot-mlops/scripts/mlruns/893832114810159553/4e4d1a5edfb64aecaf48d60f863bdacc/artifacts
+end_time: 1750998673361
+entry_point_name: ''
+experiment_id: '893832114810159553'
+lifecycle_stage: active
+run_id: 4e4d1a5edfb64aecaf48d60f863bdacc
+run_name: bemused-elk-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750998663369
+status: 4
+tags: []
+user_id: viswa

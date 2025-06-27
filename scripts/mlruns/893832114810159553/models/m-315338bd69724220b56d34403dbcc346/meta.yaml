@@ -1,0 +1,10 @@
+artifact_location: file:///C:/nmlops/tender-overshoot-mlops/scripts/mlruns/893832114810159553/models/m-315338bd69724220b56d34403dbcc346/artifacts
+creation_timestamp: 1750998663609
+experiment_id: '893832114810159553'
+last_updated_timestamp: 1750998673293
+model_id: m-315338bd69724220b56d34403dbcc346
+model_type: null
+name: model
+source_run_id: 4e4d1a5edfb64aecaf48d60f863bdacc
+status: 2
+status_message: null
